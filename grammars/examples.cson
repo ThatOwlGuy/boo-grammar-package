@@ -1,0 +1,12 @@
+scopeName: 'source.boo'
+name: 'Boo Script'
+filetypes: [ 'boo' ]
+limitLineLength: false
+
+patterns: [
+  {
+    comment: 'Hash to comment a single line'
+    name: 'comment.line.boo'
+    match: '#.*$'
+  }
+]
