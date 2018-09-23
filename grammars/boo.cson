@@ -1,5 +1,5 @@
 scopeName: 'source.boo'
-name: 'Boo Script'
+name: 'Boo'
 filetypes: [ 'boo' ]
 limitLineLength: false
 

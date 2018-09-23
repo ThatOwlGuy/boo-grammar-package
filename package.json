@@ -1,15 +1,15 @@
 {
-  "name": "boo-script",
+  "name": "language-boo",
   "version": "0.0.0",
   "description": "An attempt at a boo script language grammar package for atom",
-  "repository": "THERE IS NO REPO YET! SORRY :(",
+  "repository": "https://github.com/ThatOwlGuy/boo-grammar-package",
   "keywords":[
     "syntax",
     "highlighting",
     "grammar"
   ],
-  "license":"lul-dunno, will recitfy l8r",
-  "bugs":"See 'repository'",
+  "license":"apache-2.0",
+  "bugs":"https://github.com/ThatOwlGuy/boo-grammar-package/issues",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
